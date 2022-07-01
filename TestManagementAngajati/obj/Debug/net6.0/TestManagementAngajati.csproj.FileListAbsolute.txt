@@ -1,0 +1,12 @@
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\bin\Debug\net6.0\TestManagementAngajati.deps.json
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\bin\Debug\net6.0\TestManagementAngajati.dll
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\bin\Debug\net6.0\TestManagementAngajati.pdb
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\TestManagementAngajati.csproj.AssemblyReference.cache
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\TestManagementAngajati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\TestManagementAngajati.AssemblyInfoInputs.cache
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\TestManagementAngajati.AssemblyInfo.cs
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\TestManagementAngajati.csproj.CoreCompileInputs.cache
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\TestManagementAngajati.dll
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\refint\TestManagementAngajati.dll
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\TestManagementAngajati.pdb
+C:\Users\ANTONIA.DOROBAT\source\repos\ManagementAngajati\TestManagementAngajati\obj\Debug\net6.0\ref\TestManagementAngajati.dll
